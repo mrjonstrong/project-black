@@ -40,7 +40,7 @@
     "atob": ">=2.1.0",
     "autosize": "^4.0.2",
     "classnames": "^2.2.5",
-    "macaddress": ">=0.2.9",
+    "macaddress": ">=0.4.3",
     "cross-fetch": "^3.0.1",
     "css-loader": "^0.28.7",
     "fsevents": "^1.2.7",
