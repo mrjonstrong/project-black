@@ -41,7 +41,7 @@
     "autosize": "^4.0.2",
     "classnames": "^2.2.5",
     "macaddress": ">=0.2.9",
-    "cross-fetch": "^3.0.1",
+    "cross-fetch": "^3.0.6",
     "css-loader": "^0.28.7",
     "fsevents": "^1.2.7",
     "grommet": "^2.3.1",
